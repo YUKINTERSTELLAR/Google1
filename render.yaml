@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: edu
+    name: google-INTERSTELLAR-1
     env: docker
     plan: free
